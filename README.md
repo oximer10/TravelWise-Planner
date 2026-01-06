@@ -1,4 +1,3 @@
-# TravelWise-Planner
 # Django User Form Project
 
 Простой проект на Django для демонстрации работы с формами.  
